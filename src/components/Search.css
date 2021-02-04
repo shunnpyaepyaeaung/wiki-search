@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: #28abb9 !important;
+}
+
+.column {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input {
+  width: 400px !important;
+}
+
+.main {
+  background-color: #f5f4f4;
+  height: 100vh;
+}
+
+.celled {
+  padding: 50px !important;
+}
+
+label {
+  font-weight: bold;
+}
